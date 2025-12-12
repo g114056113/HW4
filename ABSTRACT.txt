@@ -1,0 +1,5 @@
+
+This project presents an interactive learning advisor agent based on large language models (LLMs).
+The agent actively collects user background information through multi-turn dialogue and provides
+structured learning strategies. The system is implemented using the OpenAI API and Streamlit,
+demonstrating the potential of AIGC-based agents in educational applications.
